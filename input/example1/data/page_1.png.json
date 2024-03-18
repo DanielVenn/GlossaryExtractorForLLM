@@ -1,0 +1,20 @@
+{
+    "acute triangle": "A triangle in which each of the three interior angles measures less than 90\u00b0.",
+    "algebra tiles": "Manipulatives that can be used to model operations involving integers, polynomials, and equations. Each tile represents a particular monomial, such as 1, x, or x\u00b2.",
+    "algebraic expression": "A collection of symbols, including one or more variables and possibly numbers and operation symbols. For example, 3x + 6, x, 5x, and 21 \u2013 2w are all algebraic expressions.",
+    "algebraic modelling": "The process of representing a relationship by an equation or a formula, or representing a pattern of numbers by an algebraic expression.",
+    "algorithm": "A specific set of instructions for carrying out a procedure.",
+    "altitude": "A line segment giving the height of a geometric figure. In a triangle, an altitude is found by drawing the perpendicular from a vertex to the side opposite.",
+    "analytic geometry": "A geometry that uses the xy-plane to determine equations that represent lines and curves.",
+    "angle bisector": "A line that divides an angle into two equal parts.",
+    "angle of elevation": "The angle formed by the horizontal and the line of sight (to an object above the horizontal).",
+    "application": "The use of mathematical concepts and skills to solve problems drawn from a variety of areas.",
+    "binomial": "An algebraic expression containing two terms; for example, 3x + 2.",
+    "chord": "A line segment joining two points on a curve.",
+    "coefficient": "The factor by which a variable is multiplied. For example, in the term 5x, the coefficient is 5; in the term ax, the coefficient is a.",
+    "computer algebra system (CAS)": "A software program that manipulates and displays mathematical expressions (and equations) symbolically.",
+    "congruence": "The property of being congruent. Two geometric figures are congruent if they are equal in all respects.",
+    "conjecture": "A guess or prediction based on limited evidence.",
+    "constant rate of change": "A relationship between two variables illustrates a constant rate of change when equal intervals of the first variable are associated with equal intervals of the second variable. For example, if a car travels at 100 km/h, in the first hour it travels 100 km, in the second hour it travels 100 km, and so on.",
+    "cosine law": "The relationship, for any triangle, involving the cosine of one of the angles and the lengths of the three sides; used to determine unknown sides and angles in triangles. If a triangle has sides a, b, and c, and if the angle A is opposite side a, then: a\u00b2 = b\u00b2 + c\u00b2 - 2bc cos A."
+}

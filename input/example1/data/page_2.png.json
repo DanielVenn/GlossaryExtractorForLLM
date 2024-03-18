@@ -1,0 +1,19 @@
+{
+    "cosine ratio": "For either of the two acute angles in a right triangle, the ratio of the length of the adjacent side to the length of the hypotenuse.",
+    "counter-example": "An example that proves that a hypothesis or conjecture is false.",
+    "curve of best fit": "The curve that best describes the distribution of points in a scatter plot.",
+    "deductive reasoning": "The process of reaching a conclusion by applying arguments that have already been proved and using evidence that is known to be true.",
+    "diagonal": "In a polygon, a line segment joining two vertices that are not next to each other (i.e., not joined by one side).",
+    "difference of squares": "An expression of the form a^2 - b^2, which involves the subtraction of two squares.",
+    "direct variation": "A relationship between two variables in which one variable is a constant multiple of the other.",
+    "dynamic geometry software": "Computer software that allows the user to plot points and create graphs on a coordinate system, measure line segments and angles, construct two-dimensional representations of three-dimensional objects, and transform constructed figures by moving parts of them.",
+    "evaluate": "To determine a value for.",
+    "exponent": "A special use of a superscript in mathematics. For example, in 3^2, the exponent is 2. An exponent is used to denote repeated multiplication. For example, 5^4 means 5 x 5 x 5 x 5.",
+    "extrapolate": "To estimate values lying outside the range of given data. For example, to extrapolate from a graph means to estimate coordinates of points beyond those that are plotted.",
+    "factor": "To express a number as the product of two or more numbers, or an algebraic expression as the product of two or more other algebraic expressions. Also, the individual numbers or algebraic expressions in such a product.",
+    "finite differences": "Given a table of values in which the x-coordinates are evenly spaced, the first differences are calculated by subtracting consecutive y-coordinates. The second differences are calculated by subtracting consecutive first differences, and so on. In a linear relation, the first differences are constant; in a quadratic relation of the form y = ax^2 + bx + c (a \u2260 0), the second differences are constant. For example:",
+    "first-degree equation": "An equation in which the variable has the exponent 1; for example, 5(3x - 1) + 6 = -20 + 7x + 5.",
+    "first-degree polynomial": "A polynomial in which the variable has the exponent 1; for example, 4x + 20.",
+    "generalize": "To determine a general rule or make a conclusion from examples. Specifically, to determine a general rule to represent a pattern or relationship between variables.",
+    "graphing calculator": "A hand-held device capable of a wide range of mathematical operations, including graphing from an equation, constructing a scatter plot, determining the equation of a curve of best fit for a scatter plot, making statistical calculations, performing symbolic manipulation. Many graphing calculators will attach to scientific probes that can be used to gather data involving physical measurements (e.g., position, temperature, force)."
+}
